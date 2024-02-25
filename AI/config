@@ -2,3 +2,6 @@ You shall need a config.py file with an API Key to access the libraries and prom
 
 This below link is useful to generate one for the same. :)
 https://ai.google.dev/tutorials/setup
+
+API_KEY="" 
+This is the syntax for the same.
